@@ -25,7 +25,8 @@ Sunday 4/14 6:15 PM on Zoom
 6. Do the bonding activity.
    
 **Items for Future Investigation:**
-- What will be our system for assigning tasks to everyone?  
+- What will be our system for assigning tasks to everyone?
+  
 **Decisions Made:**
 - Each member will take turns writing meeting minutes.  
 - We will count two of the three times our group has met as actual meetings because the first one was a brief post-lecture meeting.
