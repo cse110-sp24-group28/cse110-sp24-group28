@@ -1,8 +1,8 @@
-# Doing Too Much
+# Introduction Meeting Minutes
 
 ## Type: Introduction Meeting and Bonding
 
-**Attendance**: 
+**Doing Too Much Team Attendance**: 
 - Chenyu Tang
 - Steven Ngo
 - Ryan Lin
