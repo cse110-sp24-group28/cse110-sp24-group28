@@ -37,7 +37,7 @@ Friday 4/11 2:30 PM at Yogurt World near Price Center
 
 - Finalized how we want to film the introductory video
 - Everyone will film their segment of the video and send it to Celeste
-- Scheduled a meeting for Sunday 6:15pm to discuss Logo, Brank and finish other items in the Kickoff assignment
+- Scheduled a meeting for Sunday 6:15pm to discuss Logo, Brand and finish other items in the Kickoff assignment
 
 
 **Meeting finished at 3:30pm**
