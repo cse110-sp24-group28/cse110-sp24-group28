@@ -7,6 +7,7 @@ Team Name: Doing Too Much
 Core Values: Open Communication, Creativity, Responsibility, Respect, Cooperation, Encouragement
 
 Roster:
+
 Varun Parekh        
 -  My name is Varun Parekh, I was born in India, grew up in the UAE and now live here in San Diego. I am a third year Math-CS major at Revelle College
 I enjoy playing sports like football, badminton and basketball. I love going on roadtrips, hiking, taking photos, reading books and history. https://github.com/IncogOwl
