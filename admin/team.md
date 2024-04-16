@@ -4,7 +4,7 @@ Team Name: Doing Too Much
 ![logo](https://github.com/cse110-sp24-group28/cse110-sp24-group28/assets/122205899/d385ee40-fa6e-4c4e-9931-4bcdd8faab27)
 
 
-Core Values: Open Communication, Creativity, Responsibility, Respect
+Core Values: Open Communication, Creativity, Responsibility, Respect, Cooperation, Encouragement
 
 Roster:
 Varun Parekh        
