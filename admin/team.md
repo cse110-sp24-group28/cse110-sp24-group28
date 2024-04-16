@@ -30,7 +30,7 @@ Chenyu Tang
 
 Anirvinna Jain		
 -  My name is Anirvinna (You can pronounce it like Un-iir-win), I am a junior majoring in Mathematics-Computer Science. For hobbies, I like doing Comedy, and writing stuff. 
-You can find my Github here:
+You can find my Github here: https://github.com/Anirwin1303
 
 Daniel Shao		
 -  My name is Daniel. I’m currently a junior Math-cs student at 6th college. I often spend my free time at the beach, watching movies, or playing games with friends. Here is my github: https://github.com/holychickencow
