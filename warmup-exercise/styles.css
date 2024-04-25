@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body {
+    text-align: center;
+    font-family: 'Indie Flower';
+  }
+  
+  header h1 {
+    color: #333;
+    font-family: 'Indie Flower';
+  }
+  
+  button {
+    font-family: 'Indie Flower';
+    background-color: #fff;
+    border: 2px solid #ddd;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer; /*cursor changes to make it look clickable*/
+    transition: all 0.2s ease;/*to make the hoover smoother when clicked*/
+  }
+  
+  button:hover {
+    border-color: #a5d6a7;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  }
+  
+  button img {
+    vertical-align: middle;
+  }
+  
+  button:focus {
+    border-color: #64f681;
+  }
+  
+  button:active {
+    transform: scale(0.9); /* Shrink the button a bit when clicked*/
+  }
+
+  
