@@ -2,6 +2,7 @@
 body {
     text-align: center;
     font-family: 'Indie Flower';
+    background-color: #faf0e6;
   }
   
   header h1 {
@@ -11,7 +12,7 @@ body {
 
   button, .submit-button {
     font-family: 'Indie Flower';
-    background-color: #fff;
+    background-color: #faf0e6;
     border: 2px solid #ddd;
     border-radius: 20px;
     padding: 10px 20px;
@@ -25,12 +26,13 @@ body {
 }
 
 button:hover, .submit-button:hover {
-    border-color: #a5d6a7;
+    border-color: #c5ebc6;
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    background-color:blanchedalmond;
 }
 
 button:focus, .submit-button:focus {
-    border-color: #64f681;
+    border-color: #9be1a8;
 }
 
 button:active, .submit-button:active {
