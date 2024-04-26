@@ -8,8 +8,8 @@ body {
     color: #333;
     font-family: 'Indie Flower';
   }
-  
-  button {
+
+  button, .submit-button {
     font-family: 'Indie Flower';
     background-color: #fff;
     border: 2px solid #ddd;
@@ -17,25 +17,31 @@ body {
     padding: 10px 20px;
     font-size: 18px;
     margin: 10px;
-    cursor: pointer; /*cursor changes to make it look clickable*/
-    transition: all 0.2s ease;/*to make the hoover smoother when clicked*/
-  }
-  
-  button:hover {
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: center;
+    text-decoration: none; /* Remove underline from link */
+    display: inline-block; /* submit link looks like button */
+}
+
+button:hover, .submit-button:hover {
     border-color: #a5d6a7;
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-  }
-  
-  button img {
-    vertical-align: middle;
-  }
-  
-  button:focus {
-    border-color: #64f681;
-  }
-  
-  button:active {
-    transform: scale(0.9); /* Shrink the button a bit when clicked*/
-  }
+}
 
+button:focus, .submit-button:focus {
+    border-color: #64f681;
+}
+
+button:active, .submit-button:active {
+    transform: scale(1.2);
+}
+
+button img {
+    vertical-align: middle;
+}
+
+.submit-button {
+    color: #333;
+}
   
