@@ -2,6 +2,7 @@
 body {
   text-align: center;
   font-family: "Indie Flower";
+  background-color: #faf0e6;
 }
 
 header h1 {
@@ -9,31 +10,82 @@ header h1 {
   font-family: "Indie Flower";
 }
 
-button {
+button,
+.submit-button {
   font-family: "Indie Flower";
-  background-color: #fff;
+  background-color: #faf0e6;
   border: 2px solid #ddd;
   border-radius: 20px;
   padding: 10px 20px;
   font-size: 18px;
   margin: 10px;
-  cursor: pointer; /*cursor changes to make it look clickable*/
-  transition: all 0.2s ease; /*to make the hoover smoother when clicked*/
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: center;
+  text-decoration: none; /* Remove underline from link */
+  display: inline-block; /* submit link looks like button */
 }
 
-button:hover {
-  border-color: #a5d6a7;
+button:hover,
+.submit-button:hover {
+  border-color: #c5ebc6;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  background-color: blanchedalmond;
+}
+
+button:focus,
+.submit-button:focus {
+  border-color: #9be1a8;
+}
+
+button:active,
+.submit-button:active {
+  transform: scale(1.2);
 }
 
 button img {
   vertical-align: middle;
 }
 
-button:focus {
-  border-color: #64f681;
+.submit-button {
+  color: #333;
 }
 
-button:active {
-  transform: scale(0.9); /* Shrink the button a bit when clicked*/
+.verySad {
+  background-color: rgb(255, 232, 232);
+}
+.verySad:hover {
+  background-color: #f9d4cc;
+}
+
+.sad {
+  background-color: #ffe5cb;
+}
+
+.sad:hover {
+  background-color: #facaa0;
+}
+
+.netural {
+  background-color: #fffede;
+}
+
+.netural:hover {
+  background-color: #faf8be;
+}
+
+.happy {
+  background-color: #f9ffde;
+}
+
+.happy:hover {
+  background-color: #e7f4af;
+}
+
+.veryHappy {
+  background-color: #e4ffde;
+}
+
+.veryHappy:hover {
+  background-color: #bef5b2;
 }
