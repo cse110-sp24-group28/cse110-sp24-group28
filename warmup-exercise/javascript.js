@@ -6,7 +6,7 @@ const gifs = [
   "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x3cDJvY2UzcDJ5NnMzdXlzMnppeHBqMXM1Y2dua2Y4bXlveHM3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdfyKrN7HGTIY/giphy.gif",
 ];
 
-const audios = ["https://codeskulptor-demos.commondatastorage.googleapis.com/pang/arrow.mp3", "./assets/sample-3s.mp3"];
+const audios = ["./assets/verysad.mp3", "./assets/sad.mp3", "./assets/neutral.mp3", "./assets/happy.mp3", "./assets/veryHappy.mp3"];
 let audio;
 function setGif(num) {
   const element = document.getElementById("gif");

@@ -52,5 +52,40 @@ button img {
 }
 
 .verySad {
-  background-color: #c4d2db;
+  background-color: rgb(255, 232, 232);
+}
+.verySad:hover {
+  background-color: #f9d4cc;
+}
+
+.sad {
+  background-color: #ffe5cb;
+}
+
+.sad:hover {
+  background-color: #facaa0;
+}
+
+.netural {
+  background-color: #fffede;
+}
+
+.netural:hover {
+  background-color: #faf8be;
+}
+
+.happy {
+  background-color: #f9ffde;
+}
+
+.happy:hover {
+  background-color: #e7f4af;
+}
+
+.veryHappy {
+  background-color: #e4ffde;
+}
+
+.veryHappy:hover {
+  background-color: #bef5b2;
 }
