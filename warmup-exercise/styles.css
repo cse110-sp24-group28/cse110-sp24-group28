@@ -1,49 +1,52 @@
 @import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
 body {
-    text-align: center;
-    font-family: 'Indie Flower';
-    background-color: #faf0e6;
-  }
-  
-  header h1 {
-    color: #333;
-    font-family: 'Indie Flower';
-  }
-
-  button, .submit-button {
-    font-family: 'Indie Flower';
-    background-color: #faf0e6;
-    border: 2px solid #ddd;
-    border-radius: 20px;
-    padding: 10px 20px;
-    font-size: 18px;
-    margin: 10px;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    text-align: center;
-    text-decoration: none; /* Remove underline from link */
-    display: inline-block; /* submit link looks like button */
+  text-align: center;
+  font-family: "Indie Flower";
+  background-color: #faf0e6;
 }
 
-button:hover, .submit-button:hover {
-    border-color: #c5ebc6;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-    background-color:blanchedalmond;
+header h1 {
+  color: #333;
+  font-family: "Indie Flower";
 }
 
-button:focus, .submit-button:focus {
-    border-color: #9be1a8;
+button,
+.submit-button {
+  font-family: "Indie Flower";
+  background-color: #faf0e6;
+  border: 2px solid #ddd;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+  margin: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: center;
+  text-decoration: none; /* Remove underline from link */
+  display: inline-block; /* submit link looks like button */
 }
 
-button:active, .submit-button:active {
-    transform: scale(1.2);
+button:hover,
+.submit-button:hover {
+  border-color: #c5ebc6;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  background-color: blanchedalmond;
+}
+
+button:focus,
+.submit-button:focus {
+  border-color: #9be1a8;
+}
+
+button:active,
+.submit-button:active {
+  transform: scale(1.2);
 }
 
 button img {
-    vertical-align: middle;
+  vertical-align: middle;
 }
 
 .submit-button {
-    color: #333;
+  color: #333;
 }
-  
