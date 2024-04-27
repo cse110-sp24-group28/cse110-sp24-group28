@@ -11,5 +11,6 @@ If you want prettier to format on save, you also need to configure your ide to r
 
 for vscode, install the prettier extension: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
-for webstorm, go to preferences and enable format on save
+for webstorm, go to preferences and enable format on save  
 
+Warmup Exercise YouTube: https://www.youtube.com/watch?v=0QOfBKJZK8M
