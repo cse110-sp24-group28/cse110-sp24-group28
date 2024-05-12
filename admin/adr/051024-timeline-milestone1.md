@@ -18,6 +18,7 @@ The chosen order of User Stories reflects a prioritization based on dependencies
 ## Consequences
 - Clear direction for development activities, ensuring a systematic approach to feature implementation
 - Risk of overlooking dependencies or complexities that may arise during implementation, leading to rework or adjustments in the plan
+- Linear timeline can make it harder to adjust issues fron previous work
 
 ## Date
 May 10th, 2024
