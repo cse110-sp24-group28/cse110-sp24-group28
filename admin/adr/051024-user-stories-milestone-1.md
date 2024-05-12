@@ -17,7 +17,8 @@ Assigning distinct User Stories to each sub-group allows for focused attention o
 
 ## Consequences
 - Clear division of responsibilities for each sub-group
-- Improved efficiency in development and testing processes 
+- Improved efficiency in development and testing processes
+- Reduces communication between sub-teams
 
 ## Date
 May 10th, 2024
