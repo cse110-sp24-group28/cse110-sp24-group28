@@ -20,6 +20,7 @@ Assigning User Stories to groups based on deadlines ensures efficient time manag
 - Improved efficiency in development and testing processes 
 - Timely completion of tasks, meeting project milestones and deadlines
 - Risk of bottlenecks or delays if dependencies between groups are not managed effectively
+- Can reduce communication between subteams if only focusing on their respective task
 
 ## Date
 May 11th, 2024
