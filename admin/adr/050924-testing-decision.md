@@ -16,6 +16,7 @@ The team wants to make sure our code works as intended and any buggy code is dis
 - Thorough testing of functions and making sure correct values are returned
 - Finding bugs before they get committed to the main repository
 - Potential time sink if testing ends up taking longer than expected, especially setting up E2E tests
+- Ensures that everything works in any environment before proceeding and making more progress that can build off previous work
 
 ## Date: 
 May 9th, 2024
