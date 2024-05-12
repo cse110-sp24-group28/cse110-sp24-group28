@@ -19,6 +19,7 @@ Creating sub-groups allows for better collaboration, distribution of tasks, and 
 - Improved task management and coordination
 - Enhanced teamwork and communication within smaller groups
 - Increased efficiency in completing Milestone 1 deliverables
+- Could be inevitable that there is miscommunication or reliance between the teams
 
 ## Date
 May 10th, 2024
