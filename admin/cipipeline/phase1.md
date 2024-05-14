@@ -15,7 +15,7 @@ These include:
  ## Format
 
  Our team decided to use the Prettier formatting tool because it is a de facto industry standard formatting tool for javascript projects. It is available as an npm package, and most ides provide a way to integrate with it to autoformat code while editing. 
- We implemented this in our pipeline itself by running a format-check to make sure everyone's code is formatted in the same way to maintain readibility and ease of use. This check will run whenever a team member pulls or pushes a piece of code in order for everyone to have the same type of code whenever they use it.
+ We implemented this in our pipeline itself by running a format-check to make sure everyone's code is formatted in the same way to maintain readibility and ease of use. This check will run whenever a team member prs or pushes a piece of code in order for everyone to have the same type of code whenever they use it.
  In addition to checking on the github action, we also added prettier with the write option to a commit hook using the husky and lintstaged npm packages in case someone doesn't have ide integration.
 
  ## Linter
