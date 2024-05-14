@@ -1,31 +1,26 @@
 # CI/CD Platform Phase 1
 
-In this current version of the pipeline, our team wishes to maintain certain standards of the code that is pushed or pulled by our fellow team members. 
+In this current version of the pipeline, our team wishes to maintain certain standards of the code that is pushed or pulled by our fellow team members.
+We have a commit hook that runs when any team member attempts to commit, as well as a github action that runs on all pushes/pull requests
+All packages are installed as dev dependencies, and will not bloat the final product.
 
 These include:
 
-1. Format
-2. Consistency
-3. Code Style
-4. Testing
-5. Human Verification of Code
+1. Formatter
+2. Linter
+3. Testing
+4. Human Verification of Code
 
 
  ## Format
 
- Our team had decided to use the Prettier format because it is an extension availible on VSCode for everyone and ensures a great, easy to use and consistent format for everyone on the team.
- We implemented this in our pipeline itself by running a format-check to make sure everyone's code is formatted in the same way to maintain readibility and ease of use. This check will run whenever 
- a team member pulls or pushes a piece of code in order for everyone to have the same type of code whenever they use it.
+ Our team decided to use the Prettier formatting tool because it is a de facto industry standard formatting tool for javascript projects. It is available as an npm package, and most ides provide a way to integrate with it to autoformat code while editing. 
+ We implemented this in our pipeline itself by running a format-check to make sure everyone's code is formatted in the same way to maintain readibility and ease of use. This check will run whenever a team member pulls or pushes a piece of code in order for everyone to have the same type of code whenever they use it.
+ In addition to checking on the github action, we also added prettier with the write option to a commit hook using the husky and lintstaged npm packages in case someone doesn't have ide integration.
 
- ## Maintainability
+ ## Linter
 
- Our team wanted to make sure that everyone was using the same dependencies when working on the product. Thus we added a check in the pipeline to ensure that everyone had the same dependencies downloaded and that nothing 
- had changed. This was done to ensure there would be no incompatibility or inconsistency with the code between team members and that everyone was working with the same version of the program.
-
- ## Code Style
-
- Our team wanted to make sure that the code we create is readable by everyone, thus we decided to add linting to our pipeline to make sure that the code style of whatever new piece or exisiting 
- piece of code in the software was consistent and readable by everyone on the team.
+ Our team wanted to make sure that the code we create is correct, maintainable, and free of code smells. We use eslint to flag potential issues in the code. Eslint is another de facto industry standard tool, and helps flag potential errors or undesireable patterns in javascript. It runs as a github action to ensure compliance as well as on a git hook for a quicker feedback loop
 
  ## Testing
 
