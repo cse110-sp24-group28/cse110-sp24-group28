@@ -20,9 +20,9 @@ Saturday 5/25 2:30 PM on Zoom
 - Brief overview of Retrium and how it will be used in today's meeting.
   
 ### Retrium Exercises
-1. Team Radar: Work Happiness
+1. Team Radar: Work Happiness  
 ![WH1](image/Retro1_WH.PNG)
-2. Mad Sad Glad Retrospective
+2. Mad Sad Glad Retrospective  
 ![MSG1](image/Retro1_MSG.jpg)
 
 ### Discussion and feedback
