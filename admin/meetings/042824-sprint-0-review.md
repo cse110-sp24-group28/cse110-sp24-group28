@@ -1,4 +1,4 @@
-# Sprint 1 Review Meeting Minutes
+# Sprint 0 Review Meeting Minutes
 ## Type: Warmup Exercise Review
 **Attendance**: 
 - Chenyu Tang
