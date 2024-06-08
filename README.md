@@ -1,16 +1,22 @@
-# cse110-sp24-group28
+# cse110-sp24-group28 
 
-https://github.com/cse110-sp24-group28/cse110-sp24-group28/blob/main/admin/team.md
+## Important Links
+Team page: https://github.com/cse110-sp24-group28/cse110-sp24-group28/blob/main/admin/team.md
+Warmup Exercise YouTube: https://www.youtube.com/watch?v=0QOfBKJZK8M 
+Final Project Repository: https://github.com/cse110-sp24-group28/cse110-sp24-group28-final-project 
+Public Video YouTube: 
+Private Video YouTube: 
 
-After cloning the repository, please install npm
-https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-nodejs-and-npm
+## File and Directory Information
 
-Then, run npm i to install prettier and the commit hooks
-
-If you want prettier to format on save, you also need to configure your ide to run it
-
-for vscode, install the prettier extension: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-
-for webstorm, go to preferences and enable format on save  
-
-Warmup Exercise YouTube: https://www.youtube.com/watch?v=0QOfBKJZK8M
+`admin/`: 
+- `admin/adr/` contains all ADRs 
+- `admin/branding/` contains branding related files
+- `admin/cipipeline/` contains CI/CD related files
+- `admin/meeting/` contains all meeting minutes, including sprint review 1 and 2 meetings, retrospective meetings, standup meetings, planning meetings, etc
+- `admin/misc/` contains team rules 
+- `admin/videos/` contains team video, extra credit video, status videos and final videos
+`specs/`:
+- `specs/brainstrom/` contains brainstrom result of final project
+- `specs/pitch/` contains starting pitch of final project, StartingPitch_v2.0.pdf includes User Story, Wireframes, Timeline, etc.
+`warmup-exercise/` contains warmup exersice code
