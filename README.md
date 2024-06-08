@@ -1,11 +1,15 @@
 # cse110-sp24-group28 
 
 ## Important Links
-Team page: https://github.com/cse110-sp24-group28/cse110-sp24-group28/blob/main/admin/team.md
-Warmup Exercise YouTube: https://www.youtube.com/watch?v=0QOfBKJZK8M 
-Final Project Repository: https://github.com/cse110-sp24-group28/cse110-sp24-group28-final-project 
-Public Video YouTube: 
-Private Video YouTube: 
+Team page: https://github.com/cse110-sp24-group28/cse110-sp24-group28/blob/main/admin/team.md  
+
+Warmup Exercise YouTube: https://www.youtube.com/watch?v=0QOfBKJZK8M   
+
+Final Project Repository: https://github.com/cse110-sp24-group28/cse110-sp24-group28-final-project   
+
+Public Video YouTube:   
+
+Private Video YouTube:   
 
 ## File and Directory Information
 
