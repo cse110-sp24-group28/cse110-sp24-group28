@@ -16,7 +16,9 @@ Private Video YouTube:
 - `admin/meeting/` contains all meeting minutes, including sprint review 1 and 2 meetings, retrospective meetings, standup meetings, planning meetings, etc
 - `admin/misc/` contains team rules 
 - `admin/videos/` contains team video, extra credit video, status videos and final videos
+
 `specs/`:
 - `specs/brainstrom/` contains brainstrom result of final project
 - `specs/pitch/` contains starting pitch of final project, StartingPitch_v2.0.pdf includes User Story, Wireframes, Timeline, etc.
+
 `warmup-exercise/` contains warmup exersice code
