@@ -7,11 +7,13 @@ Warmup Exercise YouTube: https://www.youtube.com/watch?v=0QOfBKJZK8M
 
 Final Project Repository: https://github.com/cse110-sp24-group28/cse110-sp24-group28-final-project   
 
-Public Video YouTube:   
+Public Video YouTube:  https://youtu.be/f_s0l2ZJ7i0 
 
-Private Video YouTube:   
+Private Video YouTube:   https://youtu.be/NcwiX0UadJo 
 
 ## File and Directory Information
+
+`onboard.md`: contains steps of build process
 
 `admin/`: 
 - `admin/adr/` contains all ADRs 
